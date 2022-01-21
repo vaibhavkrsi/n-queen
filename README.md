@@ -1,2 +1,2 @@
-# n-queen
+# N-queen
 N queen problem  
