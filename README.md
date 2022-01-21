@@ -1,2 +1,2 @@
 # n-queen
-n queen problem  
+N queen problem  
