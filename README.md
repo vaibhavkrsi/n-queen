@@ -1,2 +1,2 @@
 # n-queen
-n queens problem where n=4
+n queen problem  
